@@ -1,0 +1,10 @@
+
+# Bower dependencies
+bower_components/
+
+# Node dependencies
+node_modules/
+
+# Build artefacts
+.tmp/
+
